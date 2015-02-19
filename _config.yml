@@ -1,14 +1,12 @@
 # Site settings
-title: enogrob
+title: enogrob Blog
 email: enogrob@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Blogging about Software Development, Data Science, Cloud Computing, Philosophy, Ancient Knowledge among other things.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enogrob.github.io" # the base hostname & protocol for your site
 twitter_username: enogrob
 github_username:  enogrob
-
 # Build settings
 markdown: kramdown
+destination: /Users/enogrob/TODAY/enogrob.github.io_blog/enogrob.github.io
+timezone: America/Sao_Paulo
