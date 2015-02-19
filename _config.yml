@@ -1,7 +1,7 @@
 # Site settings
-title: enogrob Blog
+title: Roberto Nogueira - blog
 email: enogrob@gmail.com
-description: Blogging about Software Development, Data Science, Cloud Computing, Philosophy, Ancient Knowledge among other things.
+description: Blogging about Software Development, Data Science, Cloud Computing, Mythology and Philosophy among other things.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://enogrob.github.io" # the base hostname & protocol for your site
 twitter_username: enogrob
