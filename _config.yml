@@ -7,6 +7,7 @@ url: "http://enogrob.github.io" # the base hostname & protocol for your site
 twitter_username: enogrob
 github_username:  enogrob
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 destination: /Users/enogrob/TODAY/enogrob.github.io_blog/enogrob.github.io
 timezone: America/Sao_Paulo
+highlighter: pygments

@@ -10,17 +10,25 @@ categories: apps
 
 An example using `hub` in order to create a repo:
 
-    git init
-    git add .
-    git commit -m "First commit"
-    git create "DS_Exploratory_Data_Analysis"
-
+```bash
+git init
+git add .
+git commit -m "First commit"
+git create "myblog_jekyll"
+```
+```bash
+$ git remote -v
+origin  git@github.com:enogrob/myblog_jekyll.git (fetch)
+origin  git@github.com:enogrob/myblog_jekyll.git (push)
+$ 
+```
 
 As `git` has an alias of `hub` in the subcommand `create` the command `hub` is executed giving an impression that git was extend with new subcommands.
 
 Here it is another example, where it is even possible opening the GitHub homepage from the command line.
-
+```bash
     git browse .
+```
 
-Homepage: [Hub](https://hub.github.com)
+![Home Logo](/assets/app2.png) [Hub](https://hub.github.com)
 

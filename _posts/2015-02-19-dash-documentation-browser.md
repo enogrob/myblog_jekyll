@@ -16,5 +16,5 @@ Main Features:
 * Snippet Manager Features
 * Special Snippet Placeholders
 
-Homepage: [Dash](http://kapeli.com/dash)
+![Home Logo](/assets/app2.png) [Dash](http://kapeli.com/dash)
 
