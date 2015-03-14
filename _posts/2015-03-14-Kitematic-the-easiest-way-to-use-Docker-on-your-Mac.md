@@ -14,6 +14,6 @@ Once installed, the Kitematic GUI launches and from the home screen you will be 
 
 ![Kitematic Screenshot](/assets/kitematic_screenshot.jpg)
 
-![Home Logo](/assets/home1.png) [Homepage](https://kitematic.com)
+![Home Logo](/assets/home1.png) [Kitematic](https://kitematic.com)
 ![Download Logo](/assets/download.png) [Download](https://kitematic.com/download)
 

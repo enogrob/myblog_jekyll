@@ -26,9 +26,12 @@ $
 As `git` has an alias of `hub` in the subcommand `create` the command `hub` is executed giving an impression that git was extend with new subcommands.
 
 Here it is another example, where it is even possible opening the GitHub homepage from the command line.
+
 ```bash
-    git browse .
+$ git browse .
 ```
+
+![Google Chrome Screenshot](/assets/google-chrome-08.19.07.png)
 
 ![Home Logo](/assets/home1.png) [Hub](https://hub.github.com)
 
