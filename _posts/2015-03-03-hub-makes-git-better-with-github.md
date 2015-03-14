@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hub makes git better with github"
+title:  "Hub::makes git better with github"
 date:   2015-03-03 20:47:00
 categories: apps
 ---
@@ -30,5 +30,5 @@ Here it is another example, where it is even possible opening the GitHub homepag
     git browse .
 ```
 
-![Home Logo](/assets/app2.png) [Hub](https://hub.github.com)
+![Home Logo](/assets/home1.png) [Hub](https://hub.github.com)
 

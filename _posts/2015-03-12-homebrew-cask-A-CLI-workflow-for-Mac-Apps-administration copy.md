@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homebrew Cask a CLI workflow for Mac Apps Administration"
+title:  "Homebrew Cask::a CLI workflow for Mac Apps Administration"
 date:   2015-03-12 07:30:00
 categories: apps
 ---
@@ -35,5 +35,5 @@ Password:
 🍺  virtualbox staged at '/opt/homebrew-cask/Caskroom/virtualbox/4.3.24-98716' (4 files, 110M)
 ```
 
-![Home Logo](/assets/app2.png) [Homebrew cask](http://caskroom.io)
+![Home Logo](/assets/home1.png) [Homebrew cask](http://caskroom.io)
 

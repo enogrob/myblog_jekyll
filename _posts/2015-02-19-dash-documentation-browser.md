@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dash Documentation Browser"
+title:  "Dash::Documentation Browser"
 date:   2015-02-19 08:27:36
 categories: apps
 ---
@@ -16,5 +16,5 @@ Main Features:
 * Snippet Manager Features
 * Special Snippet Placeholders
 
-![Home Logo](/assets/app2.png) [Dash](http://kapeli.com/dash)
+![Home Logo](/assets/home1.png) [Dash](http://kapeli.com/dash)
 
